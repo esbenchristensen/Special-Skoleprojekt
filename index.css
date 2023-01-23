@@ -1,0 +1,103 @@
+#navbar {
+    color: #F1F1FA;
+}
+
+.container-fluid{
+    padding: 1% 5%;
+    align-items: center;
+    text-align: center;
+}
+
+.container-fluid-nav{
+    padding: 1% 5%;
+}
+
+body{
+    font-family: "Poppins";
+    background-color: #E2EBF1;
+}
+
+p {
+    font-size: 1.0rem;
+}
+
+/* Navigationbar */
+
+.navbar-brand{
+    font-family: "Poppins";
+    font-size: 2rem;
+
+}
+
+.navbar{
+    padding:0rem 0rem 0rem 0rem;
+}
+
+.nav-item{
+    padding:0 0px;
+}
+
+.nav-link{
+    font-size: 1.0rem;
+    font-family: "Poppins";
+    font-weight: 100;
+}
+
+/* Login section */
+
+.loginsection {
+    background-color: #E2EBF1;
+    color: black;
+    padding-top: 10rem;
+}
+
+
+.velkommenh1 {
+    font-size: 2rem;
+margin-bottom: 1rem;
+font-weight: 600;
+margin-bottom: 2rem;
+color: #1C285B;
+}
+
+.login {
+    font-size: 1.4rem;
+    font-weight: 300;
+    background-color: white;
+    height: 20rem;
+    max-width: fit-content;
+    margin: auto;
+    padding: 4rem;
+    border-radius: 10px;
+}
+
+#idinput {
+    padding: 1rem 7rem 1rem 1rem;
+    width: auto;
+    height: 3rem;
+    border-radius: 1rem;
+    border: 0;
+    font-size: 1.1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-color: #F4F4F4;
+}
+
+.loginbutton {
+    background-color: #2FB98D;
+    color: white;
+    font-size: 1.1rem;
+    padding: 0.7rem;
+    border-radius: 1rem;
+    border: 0;
+    margin-left: 1rem;
+    width: 6rem;
+    font-family: poppins;
+}
+
+
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
